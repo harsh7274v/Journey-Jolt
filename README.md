@@ -98,8 +98,7 @@ Steps to Install and Set Up:
 Clone the repository or download the ZIP file
 
 To clone the repo, run the following command:
-https://github.com/satendra03/trip-planner-by-satendra.git
-Alternatively, you can download the ZIP file from the repository page and extract it.
+ you can download the ZIP file from the repository page and extract it.
 Open the project folder in a code editor
 Open the folder in your preferred code editor (e.g., VS Code).
 
